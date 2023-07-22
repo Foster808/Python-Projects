@@ -1,2 +1,0 @@
-#NASA API
-api_key="hVKSv6Nn9O1ApunShUfvl88Ho82doSfaAQOr2LQ4"
