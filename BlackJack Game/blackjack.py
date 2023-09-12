@@ -1,6 +1,7 @@
 import random
+from random import choice
 from art import logo
-import os
+from replit import clear
 
 
 def deal_card():
