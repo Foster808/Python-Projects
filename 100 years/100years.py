@@ -2,7 +2,7 @@ import datetime
 
 
 def main():
-    name = input("Enter your name: ")
+    name = input("Enter your Name: ")
 
     age = input("Enter your age: ")
     age = int(age)
