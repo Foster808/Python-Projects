@@ -2,7 +2,7 @@ import datetime
 
 
 def main():
-    name = input("Enter your Name: ")
+    name = input("Enter your name: ")
 
     age = input("Enter your age: ")
     age = int(age)
@@ -13,7 +13,6 @@ def main():
 
 
 def year():
-
     today = datetime.date.today()
 
     return today.year
